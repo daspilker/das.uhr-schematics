@@ -19,7 +19,7 @@ ICs
 * **IC7** PWM LED driver 28-DIP (Digi-Key 296-17732-5-ND)
 * **IC8** DCF-77 receiver (Pollin 810 054)
 * **IC9** real-time clock 8-DIP (Digi-Key DS1307+-ND)
-* **CON2** serial Bluetooth transceiver module JY-MCU BT_BOARD V1.2
+* **CON2** serial Bluetooth transceiver module JY-MCU BT_BOARD V1.2 (eBay)
 
 Capactitors
 * **C1, C2** ceramic 1µF 50V (Digi-Key 490-5375-ND)
@@ -39,7 +39,6 @@ Other
 * **T1** ambient light sensor (Digi-Key 751-1059-ND)
 * micro-USB power supply 5V 500mA (Digi-Key 454-1496-ND)
 * Nichia Superflux LED white 10lm 100° NSPWR70CSS (LUMITRONIX 11011)
-* bluetooth module JY-MCU BT_BOARD 1.2 (eBay)
 
 Sockets and Connectors
 * **CON1** micro-USB A/B receptacle SMD 90° (Digi-Key H11635CT-ND)
