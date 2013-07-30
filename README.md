@@ -51,8 +51,6 @@ Sockets and Connectors
 * **IC4-IC6** DIP socket 14-pos (Digi-Key A100205-ND)
 * **IC8** female header 4-pos 2.54mm (Digi-Key S7037-ND)
 * **IC9** DIP socket 8-pos (Digi-Key A100204-ND)
-* female header 9-pos 2.54mm (Digi-Key S7042-ND)
-* female header 11-pos 2.54mm (Digi-Key S7044-ND)
 
 
 License
