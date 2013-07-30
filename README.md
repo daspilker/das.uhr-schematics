@@ -22,12 +22,12 @@ ICs
 * **CON2** serial Bluetooth transceiver module JY-MCU BT_BOARD V1.2
 
 Capactitors
-* **C1+C2** ceramic 1µF 50V (Digi-Key 490-5375-ND)
+* **C1, C2** ceramic 1µF 50V (Digi-Key 490-5375-ND)
 * **C3-C9** ceramic 100nF 50V (Digi-Key 490-3811-ND)
 * **C10** electrolytic 100µF 10V (Digi-Key P5123-ND)
 
 Resistors
-* **R1+R4-R6** 10kΩ (Digi-Key 10KQBK-ND)
+* **R1, R4-R6** 10kΩ (Digi-Key 10KQBK-ND)
 * **R2** 1kΩ (Digi-Key 1.0KQBK-ND)
 * **R3** 330Ω (Digi-Key 330QBK-ND)
 * **R7** trimmer 5kΩ (Digi-Key CT6EP502-ND)
@@ -36,21 +36,23 @@ Resistors
 Other
 * **Q1** crystal 32.768 kHz 12.5pF (Digi-Key 300-8303-ND)
 * **LED1** LED 3mm (Digi-Key 754-1211-ND)
-* **T1** ambient Light Sensor (Digi-Key 751-1059-ND)
+* **T1** ambient light sensor (Digi-Key 751-1059-ND)
 * micro-USB power supply 5V 500mA (Digi-Key 454-1496-ND)
+* Nichia Superflux LED white 10lm 100° NSPWR70CSS (LUMITRONIX 11011)
+* bluetooth module JY-MCU BT_BOARD 1.2 (eBay)
 
 Sockets and Connectors
-* **CON1** CONN RCPT MICRO USB AB SMD R/A (Digi-Key H11635CT-ND)
-* **CON2** CONN FEMALE 6POS .100" R/A GOLD (Digi-Key S5481-ND)
-* **ISP1** CONN HEADER 6POS .100 STR 15AU (Digi-Key 609-3210-ND)
-* **CON3+CON4** CONN HEADER .100 SINGL STR 36POS (Digi-Key S1011E-36-ND)
-* **IC2+IC7** CONN IC SOCKET VERT 28POS TIN (Digi-Key A100210-ND)
-* **IC3** CONN IC SOCKET VERT 16POS TIN (Digi-Key A100206-ND)
-* **IC4-IC6** CONN IC SOCKET VERT 14POS TIN (Digi-Key A100205-ND)
-* **IC8** CONN HEADER FEMALE 4POS .1" GOLD (Digi-Key S7037-ND)
-* **IC9** CONN IC SOCKET VERT 8POS TIN (Digi-Key A100204-ND)
-* CONN HEADER FEMALE 9POS .1" GOLD (Digi-Key S7042-ND)
-* CONN HEADER FEMALE 11POS .1" GOLD (Digi-Key S7044-ND)
+* **CON1** micro-USB A/B receptacle SMD 90° (Digi-Key H11635CT-ND)
+* **CON2** female header 6-pos 2.54mm 90° (Digi-Key S5481-ND)
+* **ISP1** header 6-pos 2.54mm (Digi-Key 609-3210-ND)
+* **CON3, CON4** header 2.54mm 36-pos (Digi-Key S1011E-36-ND)
+* **IC2, IC7** DIP socket 28-pos (Digi-Key A100210-ND)
+* **IC3** DIP socket 16-pos (Digi-Key A100206-ND)
+* **IC4-IC6** DIP socket 14-pos (Digi-Key A100205-ND)
+* **IC8** female header 4-pos 2.54mm (Digi-Key S7037-ND)
+* **IC9** DIP socket 8-pos (Digi-Key A100204-ND)
+* female header 9-pos 2.54mm (Digi-Key S7042-ND)
+* female header 11-pos 2.54mm (Digi-Key S7044-ND)
 
 
 License
